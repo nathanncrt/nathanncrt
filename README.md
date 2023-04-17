@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Nathan</h1>
-<h3 align="center">A french computer science student from</h3><br>
+<h3 align="center">A french computer science student from France</h3><br>
 
 - 💻 I'm currently learning cumpter science at IUT of Reims since September 2022
 
 - 📫 Reach me at : nathan.nicart@etudiant.univ-reims.fr
 
-- **Look at all my study project :** <br>
+- Look at all my study project : <br>
 
     **BUT 1st year :** 
     - [Installation & Configuration de services réseaux](https://github.com/nathanncrt/SAE-Reseaux)
