@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Nathan</h1>
-<h3 align="center">A French Computer Science & Information Systems Engineering Student</h3>
+<h3 align="center">A French Information Systems Engineering Student</h3>
 
 ---
 
