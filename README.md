@@ -1,16 +1,18 @@
 <h1 align="center">Hi <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Nathan</h1>
-<h3 align="center">A French Computer Science Student</h3>
+<h3 align="center">A French Computer Science & Information Systems Engineering Student</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 I’m currently studying **Computer Science** at **IUT of Reims** (since September 2022).  
+- 🎓 I obtained my **BUT in Computer Science** at the **IUT of Reims** (2022 – 2025).  
+- 🎓 I’m now pursuing an **Engineering Degree in Computer Science & Information Systems** at **UTT Troyes** (since September 2025).  
 - 📫 Reach me at: **nathan.nicart.dev@gmail.com**  
 - 🔗 Connect with me on [LinkedIn](https://fr.linkedin.com/in/nathan-nicart-2838b6277)
 
 ---
 
 ### 📂 Academic Projects  
+
 #### **BUT 1st Year**  
 - 🔹 [Network Services Installation & Configuration](https://github.com/nathanncrt/SAE-Reseaux)  
 - 🔹 [Virtual Machine Configuration on Ubuntu](https://github.com/nathanncrt/SAE-MS103)  
